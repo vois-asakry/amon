@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "480349185959",
+    "project_id": "amon-424bf",
+    "storage_bucket": "amon-424bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480349185959:android:b95fe39839aa07cdebb882",
+        "android_client_info": {
+          "package_name": "marketing.amon.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480349185959-4gf21hqb739dj68ufs8d4ee5avuq3jfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "marketing.amon.www",
+            "certificate_hash": "ad2ac8644545a4fcd5b243f5a56d88d0ce3ad1c2"
+          }
+        },
+        {
+          "client_id": "480349185959-udpfsld0dbftl1q8miogc48mlld70sn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "marketing.amon.www",
+            "certificate_hash": "d087f0616fb1139bc19edc18f549f3dd3a1c1eb1"
+          }
+        },
+        {
+          "client_id": "480349185959-oo9d3pfioldvs4diag5b759r7crk2ql6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiMi6AVzH8uBLu0DMHRCpgQyL3wjEbpv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480349185959-2sv2v36q40hm9qru5aksjg2e3llmethf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
