@@ -1,0 +1,341 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": true,
+      "showNumber": false,
+      "design": "default",
+      "fit": "fitWidth",
+      "height":0.55,
+      "showBackGround": true,
+      "radius": 2.0,
+      "items": [
+        {
+          "category": 28,
+          "image": "https://amon.marketing/wp-content/uploads/2023/04/oriental-sweets-500-x500.png",
+          "padding": 15.0
+        },
+        {
+          "category": 28,
+          "image": "https://amon.marketing/wp-content/uploads/2023/04/Discounts-up-to-500-x-500.png",
+          "padding": 15.0
+        },
+        {
+          "product": 28,
+          "image": "https://amon.marketing/wp-content/uploads/2023/04/oriental-sweets-3-500-x-500.png",
+          "padding": 15.0
+        },
+        {
+          "product": 28,
+          "image": "https://amon.marketing/wp-content/uploads/2023/04/Bag-500-x-500.png",
+          "padding": 15.0
+        },
+        {
+          "product": 28,
+          "image": "https://amon.marketing/wp-content/uploads/2023/04/Sun-block-500-x-500.png",
+          "padding": 15.0
+        }
+
+      ]
+    },
+
+    {
+      "layout":"category",
+      "type":"image",
+      "wrap":false,
+      "showShortDescription":true,
+      "size":1.0,
+      "radius":80.0,
+      "spacing":12.0,
+      "items":[
+
+        {
+          "image":"https://amon.marketing/wp-content/uploads/2023/03/cosmetic.jpg",
+          "showText":true,
+          "category":"487",
+          "originalColor":true,
+          "keepDefaultTitle":false,
+          "showDescription":false
+        },
+        {
+          "image":"https://amon.marketing/wp-content/uploads/2023/02/cosmetic.png",
+          "showText":true,
+          "category":"485",
+          "originalColor":true,
+          "keepDefaultTitle":false,
+          "showDescription":false
+        },
+        {
+          "image":"https://amon.marketing/wp-content/uploads/2023/02/fashion.png",
+          "showText":true,
+          "category":"361",
+          "originalColor":true,
+          "keepDefaultTitle":false,
+          "showDescription":false
+        },
+        {
+          "image":"https://amon.marketing/wp-content/uploads/2023/02/Souvenirs.png",
+          "showText":true,
+          "category":"410",
+          "originalColor":true,
+          "keepDefaultTitle":false,
+          "showDescription":false
+        },
+        {
+          "image":"https://amon.marketing/wp-content/uploads/2023/02/candies.png",
+          "showText":true,
+          "category":"469",
+          "originalColor":true,
+          "keepDefaultTitle":false,
+          "showDescription":false
+        },
+        {
+          "image":"https://amon.marketing/wp-content/uploads/2023/02/bags.png",
+          "showText":true,
+          "category":"337",
+          "originalColor":true,
+          "keepDefaultTitle":false,
+          "showDescription":false
+        },
+        {
+          "image":"https://amon.marketing/wp-content/uploads/2023/05/bags-1.png",
+          "showText":true,
+          "category":"527",
+          "originalColor":true,
+          "keepDefaultTitle":false,
+          "showDescription":false
+        }
+
+      ],
+      "line":false,
+      "marginLeft":0.0,
+      "marginRight":0.0,
+      "marginTop":10.0,
+      "marginBottom":10.0,
+      "paddingX":10.0,
+      "paddingY":10.0,
+      "marginX":0.0,
+      "marginY":0.0,
+      "hideTitle":false,
+      "noBackground":false,
+      "imageBorderWidth":1.5,
+      "imageBorderColor":"ffe61a00",
+      "imageBorderStyle":"dot",
+      "imageSpacing":10.0,
+      "labelFontSize":14.0,
+      "border":0.6,
+      "enableBorder":false,
+      "textAlignment":"topCenter",
+      "imageBoxFit":"fitWidth",
+      "itemSize":{
+        "height":160,
+        "width":130}
+    },
+    {
+      "backgroundWidthMode":true,
+      "boxShadow":{
+        "blurRadius":14.0,
+        "colorOpacity":0.1,
+        "spreadRadius":10.0,
+        "x":0.0,
+        "y":6.0
+      },
+      "showCartIcon":false,
+      "showQuantity":false,
+      "hMargin":9.0,
+      "borderRadius":12.0,
+      "enableRating":true,
+      "enableBottomAddToCart":false,
+      "imageRatio":1.2,
+      "backgroundImage":"assets/images/sale.png",
+      "onSale":true,
+      "showCartButtonWithQuantity":false,
+      "cardDesign":"card",
+      "vPadding":6.0,
+      "showCartIconColor":false,
+      "imageBoxfit":"contain",
+      "isSnapping":true,
+      "showHeart":true,
+      "hideTitle":false,
+      "showCartButton":false,
+      "backgroundRadius":0.0,
+      "showCountDown":true,
+      "backgroundHeight":275,
+      "cartIconRadius":9.0,
+      "layout":"saleOff",
+      "backgroundColor":"fffff",
+      "hidePrice":false,
+      "showStockStatus":false,
+      "hPadding":8.0,
+      "columns":0,
+      "titleLine":2,
+      "hideStore":false,
+      "rows":1,
+      "name":"Flash Sale ⚡️",
+      "backgroundBoxFit":"contain",
+      "vMargin":31.0,
+      "spaceWidth":165.11627906976744,
+      "image":"",
+      "hideEmptyProductListRating":false,
+      "showOnlyImage":false,
+      "parallax":false,
+      "parallaxImageRatio":1.2,
+      "hideEmptyProductLayout":false,
+      "paddingBGP":{
+        "left":0.0,
+        "right":0.0,
+        "top":0.0,
+        "bottom":0.0
+      },
+      "productListItemHeight":125.0
+    },
+
+    {
+      "name": "Antiques 🎁 ",
+      "image": "https://amon.marketing/wp-content/uploads/2023/04/murals-ancient-egypt-scene-banner-600w-2170346281-1-1.png",
+      "layout": "saleOff",
+      "category": 411,
+      "isSnapping": true
+    },
+    {
+      "name": "New Cups",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 412,
+      "isSnapping": true
+    },
+    {
+      "layout": "bannerImage",
+      "height": 0.25,
+      "items": [
+        {
+          "image": "https://amon.marketing/wp-content/uploads/2023/04/ban12.png",
+          "layout":"bannerImage",
+          "design":"static",
+          "category": 361,
+          "padding": 0.0,
+          "height":0.40,
+          "fit":"fill",
+          "radius": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Sale",
+      "layout": "recentView"
+    },
+    {
+      "name": "New Fashions",
+      "layout": "staggered",
+      "limit": 20,
+      "category": 362
+    },
+    {
+      "layout": "bannerImage",
+      "height": 0.16,
+      "items": [
+        {
+          "image": "https://amon.marketing/wp-content/uploads/2023/04/sale-festival.png",
+          "layout":"bannerImage",
+          "design":"static",
+          "padding": 0.0,
+          "category": 470,
+          "fit":"fill",
+          "radius": 0.0
+        }
+      ]
+    }
+  ,
+    {
+      "name": "Bags",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 337,
+      "isSnapping": true
+    },
+    {
+      "layout": "bannerImage",
+      "height": 0.18,
+      "items": [
+        {
+          "image": "https://amon.marketing/wp-content/uploads/2023/04/sale-festival-1.png",
+          "layout":"bannerImage",
+          "design":"static",
+          "padding": 0.0,
+          "fit":"fill",
+          "radius": 0.0
+        }
+      ]
+    },
+
+    {
+      "name": "Cosmetic",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 485,
+      "isSnapping": true
+    }
+  ],
+  "Setting": {
+    "MainColor": "#242223",
+    "FontFamily": "Roboto",
+    "StickyHeader": false,
+    "ShowChat": true,
+    "ProductListLayout": "columns"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "SideMenu",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout":"profile",
+      "background":"https://madaregypt.net/wp-content/uploads/2022/12/124577633-two-gears-icon-outline-style-1.png",
+      "icon":"person",
+      "fontFamily":"CupertinoIcons",
+      "pos":400
+    }
+  ],
+
+  "searchSuggestion": [
+    "Here are some suggestions:",
+    "man",
+    "woman",
+    "dress",
+    "Stitch"
+  ]
+}
