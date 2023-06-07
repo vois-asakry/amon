@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>FluxStore</string>
+	<string>ِAmon Store</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -47,7 +47,7 @@
 			<string>firebaseDynamicLink</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.inspireui.mstore.flutter</string>
+				<string>marketing.amon.www</string>
 			</array>
 		</dict>
 		<dict>
@@ -64,7 +64,7 @@
 	<key>FacebookAppID</key>
 	<string>430258564493822</string>
 	<key>FacebookDisplayName</key>
-	<string>FluxStore</string>
+	<string>Amon Store</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<true/>
 	<key>FirebaseDeepLinkPasteboardRetrievalEnabled</key>
