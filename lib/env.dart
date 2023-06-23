@@ -377,9 +377,9 @@ Map<String, dynamic> environment = {
     "androidPackageName": "marketing.amon.www",
     "androidAppMinimumVersion": 1,
     //----------* iOS Setting *----------//
-    "iOSBundleId": "com.inspireui.mstore.flutter",
+    "iOSBundleId": "marketing.amon.www",
     "iOSAppMinimumVersion": "1.0.1",
-    "iOSAppStoreId": "1469772800"
+    "iOSAppStoreId": "6449618733"
   },
 
   /// ➡️ lib/common/languages.dart
